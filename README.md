@@ -1,2 +1,2 @@
 # osPlayground
-This is a repo that contains solutions to some interesting practise questions
+Solutions to some interesting questions on different data structure and algorithm concepts
