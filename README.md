@@ -1,2 +1,2 @@
 # osPlayground
-This is a repo that I practise different solutions for 
+This is a repo that contains solutions to some interesting practise questions
